@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourabh Kshirsagar</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
+<h3 align="center">A passionate software Engineer</h3>
 
 <img align="right" alt="coding" width="400px" src="https://tse3.mm.bing.net/th?id=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&pid=Api&P=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhkshirsagar&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhkshirsagar" /> </p>
